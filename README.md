@@ -11,7 +11,7 @@ Full-Stack Software Engineer — React/TypeScript · Java/Spring Boot · Cloud &
 ---
 
 ### 🚀 About Me
-Engineer who ships production software end-to-end: modern UIs, solid backends, and deploys that don’t explode at 2am. Performance, reliability, and clear client comms are non-negotiable. :contentReference[oaicite:0]{index=0}
+Engineer who ships production software end-to-end: modern UIs, solid backends, and deploys that don’t explode at 2am. Performance, reliability, and clear client comms are non-negotiable.
 
 - Portfolio: **tsvetomirmichov-dev.onrender.com**  
 - GitHub: **github.com/TsvetomirMichov**  
@@ -20,41 +20,62 @@ Engineer who ships production software end-to-end: modern UIs, solid backends, a
 ---
 
 ### 🧠 What I’m Up To
-- Building full-stack apps with **React + TypeScript** and **NestJS / Spring Boot**. :contentReference[oaicite:1]{index=1}  
-- Shipping to cloud with **AWS (S3, Route 53)**, **Docker**, and **GitHub Actions CI/CD**. :contentReference[oaicite:2]{index=2}  
-- Payments & auth with **Stripe** and **Firebase Auth**. :contentReference[oaicite:3]{index=3}  
+- Building full-stack apps with **React + TypeScript** and **NestJS / Spring Boot**  
+- Shipping to cloud with **AWS (S3, Route 53)**, **Docker**, and **GitHub Actions CI/CD**  
+- Payments & auth with **Stripe** and **Firebase Auth**  
 
 ---
 
 ### 🔭 Featured Projects
 **Challenge-Zone — Gamified challenges with payouts**  
 Tech: React, Tailwind, MUI 5, NestJS, Prisma, PostgreSQL. Infra: AWS S3 + Route 53, GitHub Actions, Nginx.  
-_Result:_ optimized pipeline improved static site performance by ~30%. :contentReference[oaicite:4]{index=4}
+_Result:_ optimized pipeline improved static site performance by ~30%.
 
 **Punchline Pro — Crew & Project Management**  
 Tech: React, shadcn/ui, Tailwind, Redux Toolkit, React Hook Form, Stripe, **Java Spring Boot**, PostgreSQL, Docker.  
-_Result:_ modern UI/UX + robust backend for seamless tracking and client transparency. :contentReference[oaicite:5]{index=5}
+_Result:_ modern UI/UX + robust backend for seamless tracking and client transparency.
 
 **Freelance (Fiverr)** — MVPs & production apps for international clients using React + NestJS + PostgreSQL, with Stripe + CI/CD.  
-Rated for clear communication, fast delivery, maintainable code. :contentReference[oaicite:6]{index=6}
+Rated for clear communication, fast delivery, maintainable code.
 
 ---
 
 ### 🧰 Tech Stack
-**Frontend:** React · TypeScript · Redux Toolkit · shadcn/ui · Tailwind CSS · React Hook Form :contentReference[oaicite:7]{index=7}  
-**Backend:** NestJS · Node.js · Java (Spring Boot) · PostgreSQL · MongoDB :contentReference[oaicite:8]{index=8}  
-**Ops & Extras:** Stripe · Firebase Auth · Docker · GitHub Actions · AWS S3 & Route 53 · Nginx :contentReference[oaicite:9]{index=9}
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+**Backend:**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Ops & Extras:**  
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Route 53](https://img.shields.io/badge/AWS%20Route%2053-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
 ### 🔗 Connect
-- Portfolio: https://tsvetomirmichov-dev.onrender.com :contentReference[oaicite:10]{index=10}  
-- GitHub: https://github.com/TsvetomirMichov :contentReference[oaicite:11]{index=11}  
-- Fiverr: https://fiverr.com/tsmichov :contentReference[oaicite:12]{index=12}  
-- Email: tsmichov1@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-render.com-000?style=for-the-badge&logo=render&logoColor=white)](https://tsvetomirmichov-dev.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-TsvetomirMichov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TsvetomirMichov)
+[![Fiverr](https://img.shields.io/badge/Fiverr-tsmichov-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/tsmichov)
+[![Email](https://img.shields.io/badge/Email-tsmichov1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsmichov1@gmail.com)
 
 ---
 
 ### 🎓 Education
-B.S. Software Engineering (in progress) — Technical University of Sofia (2024–2028). :contentReference[oaicite:13]{index=13}
-
+B.S. Software Engineering (in progress) — Technical University of Sofia (2024–2028).
