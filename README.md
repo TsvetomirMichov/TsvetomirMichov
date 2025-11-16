@@ -28,11 +28,11 @@ Engineer who ships production software end-to-end: modern UIs, solid backends, a
 
 ### 🔭 Featured Projects
 **Challenge-Zone — Gamified challenges with payouts**  
-Tech: React, Tailwind, MUI 5, NestJS, Prisma, PostgreSQL. Infra: AWS S3 + Route 53, GitHub Actions, Nginx.  
+Tech: React, NestJS, Prisma, PostgreSQL. Infra: AWS S3 + Route 53 + RDS, GitHub Actions, Nginx.  
 _Result:_ optimized pipeline improved static site performance by ~30%.
 
 **Punchline Pro — Crew & Project Management**  
-Tech: React, shadcn/ui, Tailwind, Redux Toolkit, React Hook Form, Stripe, **Java Spring Boot**, PostgreSQL, Docker.  
+Tech: React, Redux Toolkit, Stripe, **Java Spring Boot**, PostgreSQL, Docker.  
 _Result:_ modern UI/UX + robust backend for seamless tracking and client transparency.
 
 **Freelance (Fiverr)** — MVPs & production apps for international clients using React + NestJS + PostgreSQL, with Stripe + CI/CD.  
@@ -46,8 +46,6 @@ Rated for clear communication, fast delivery, maintainable code.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend:**  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
