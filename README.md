@@ -28,7 +28,7 @@ Engineer who ships production software end-to-end: modern UIs, solid backends, a
 
 ### 🔭 Featured Projects
 **Challenge-Zone — Gamified challenges with payouts**  
-Tech: React, NestJS, Prisma, PostgreSQL. Infra: AWS S3 + Route 53 + RDS, GitHub Actions, Nginx.  
+Tech: React,NextJs,VueJs, NestJS, Prisma, PostgreSQL. Infra: AWS S3 + Route 53 + RDS, GitHub Actions, Nginx.  
 _Result:_ optimized pipeline improved static site performance by ~30%.
 
 **Punchline Pro — Crew & Project Management**  
